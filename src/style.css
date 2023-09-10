@@ -1,0 +1,4 @@
+.list-group-item.active{
+  background-color: #4b4b4b !important;
+  border: none !important;
+}
